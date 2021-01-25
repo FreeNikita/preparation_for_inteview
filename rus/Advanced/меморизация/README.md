@@ -98,8 +98,8 @@ speedTest('fib(20)', fib, [20], LOOP_COUNT);
 speedTest('memoized fib(20)', mFib, [20], LOOP_COUNT);
 ```
 
-![First_example](./images/first_example.png)
+![First_example](../../../assets/images/memoize/first_example.png)
 
 ### Смерть вашему ПК. (Я не советую запускать с числом больше 30)
 
-![First_example](./images/second_example.png)
+![First_example](../../../assets/images/memoize/second_example.png)
